@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2019 r2 Generated HTML5.fltar" Date="2019-10-16T09:32:57.8115362-06:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 r2 Generated HTML5.fltar" Date="2019-10-16T09:45:40.4263579-06:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -34,7 +34,7 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Mobile_test.html
 Saving result set...
-Output generated in 4 second(s).
+Output generated in 3 second(s).
 
 Done
 Saving log to "C:\Users\SpinPO\Desktop\Projects\Help Content\CloudBoxx\Mobile Build Test\Output\SpinPO\HTML5\HTML5.mclog"
